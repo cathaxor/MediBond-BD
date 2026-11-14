@@ -280,16 +280,6 @@ To contribute:
 
 Do not include real patient records, personal health information, credentials, or private backup files in issues or pull requests.
 
----
-
-## 📄 License
-
-A software license has not yet been specified in this README.
-
-Please review the repository's `LICENSE` file, if one is added, before assuming permission to redistribute or modify the project.
-
----
-
 ### ❤️ Built with Flutter
 
 **MediBond BD — Your Medicine. Your Schedule. Your Family.**
