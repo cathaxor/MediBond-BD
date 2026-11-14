@@ -1,0 +1,250 @@
+
+# ==============================================
+# MediBond BD
+# Flutter Android Application
+# Developed by Abdur Rahaman Abdulla (CatHaxor)
+# A Nethivo Product
+# ==============================================
+
+
+# ==============================================
+# 1. Miscellaneous
+# ==============================================
+
+*.class
+*.log
+*.pyc
+*.swp
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+.atom/
+.build/
+.buildlog/
+.history/
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+
+# ==============================================
+# 2. Android Studio / IntelliJ
+# ==============================================
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Optional local VS Code settings
+.vscode/
+
+# Keep VS Code shared settings if desired
+# !.vscode/extensions.json
+
+
+# ==============================================
+# 3. Flutter / Dart / Pub
+# ==============================================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+/build/
+**/build/
+/coverage/
+
+.flutter_tool_state
+
+# Generated Flutter environment files
+**/flutter_export_environment.sh
+
+
+# ==============================================
+# 4. Android / Gradle
+# ==============================================
+
+.gradle/
+**/.gradle/
+
+android/.cxx/
+android/local.properties
+
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Generated Android artifacts
+*.apk
+*.aab
+*.apks
+
+# Android native intermediate files
+.cxx/
+.externalNativeBuild/
+
+
+# ==============================================
+# 5. Release Signing & Private Keys
+# ==============================================
+
+android/key.properties
+**/key.properties
+
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Do not commit release signing credentials
+**/release-signing.properties
+**/signing.properties
+
+# Keep example configuration files
+!android/key.properties.example
+
+
+# ==============================================
+# 6. Supabase / Environment Configuration
+# ==============================================
+
+.env
+.env.*
+!.env.example
+
+*.local
+secrets.json
+credentials.json
+service-account.json
+service_account.json
+
+# Local private config
+config/secrets/
+config/private/
+
+# Keep Supabase migration SQL files tracked
+# Keep non-secret public configuration tracked
+
+
+# ==============================================
+# 7. SQLite / Drift Local Data
+# ==============================================
+
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Local database snapshots
+*.db.backup
+*.sqlite.backup
+*.sqlite3.backup
+
+
+# ==============================================
+# 8. Encrypted Backup / Restore
+# ==============================================
+
+*.medibond
+
+/backups/
+/backup_exports/
+/backup_imports/
+/private_backups/
+
+# Temporary restore data
+/restore_temp/
+/temp_restore/
+/temp_export/
+
+
+# ==============================================
+# 9. User Personal & Health Data
+# ==============================================
+
+/private_data/
+/user_data/
+/health_data/
+/patient_data/
+/prescriptions_private/
+/encrypted_documents/
+
+# Local test data exports
+/local_exports/
+/data_exports/
+
+
+# ==============================================
+# 10. Crash Logs / Diagnostics
+# ==============================================
+
+*.stacktrace
+*.hprof
+*.heapdump
+*.trace
+
+crash_logs/
+diagnostics/
+debug_logs/
+
+
+# ==============================================
+# 11. Flutter Symbolication / Obfuscation
+# ==============================================
+
+app.*.symbols
+app.*.map.json
+
+
+# ==============================================
+# 12. Widget Preview
+# ==============================================
+
+.widget_preview/
+
+
+# ==============================================
+# 13. Temporary / Cache
+# ==============================================
+
+.cache/
+tmp/
+temp/
+.cache_temp/
+
+
+# ==============================================
+# 14. Keep Essential Project Files
+# ==============================================
+
+# Do not ignore:
+# lib/
+# assets/
+# test/
+# android source files
+# pubspec.yaml
+# pubspec.lock
+# analysis_options.yaml
+# README.md
+# LICENSE
+# Supabase SQL migrations
+# Drift generated *.g.dart files
+# ==============================================

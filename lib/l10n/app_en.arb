@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appName": "MediBond BD",
+  "appTagline": "Offline-first Family Medicine Companion",
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Get Started",
+  "navHome": "Home",
+  "navMedicines": "Medicines",
+  "navFamily": "Family",
+  "navHistory": "History",
+  "navVault": "Vault",
+  "navSettings": "Settings",
+  "settings": "Settings",
+  "language": "Language",
+  "themeMode": "Theme Mode",
+  "aboutApp": "About MediBond BD",
+  "aboutNethivo": "About Nethivo",
+  "version": "Version 1.0.0",
+  "privacyPolicy": "Privacy Policy",
+  "supportContact": "Support & Contact"
+}

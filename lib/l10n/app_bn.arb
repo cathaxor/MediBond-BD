@@ -1,0 +1,22 @@
+{
+  "@@locale": "bn",
+  "appName": "মেডিবন্ড বিডি",
+  "appTagline": "বাংলাদেশীদের জন্য অফলাইন-ফার্স্ট ফ্যামিলি মেডিসিন ট্র্যাকার",
+  "skip": "এড়িয়ে যান",
+  "next": "পরবর্তী",
+  "getStarted": "শুরু করুন",
+  "navHome": "হোম",
+  "navMedicines": "ওষুধের তালিকা",
+  "navFamily": "পরিবার",
+  "navHistory": "ইতিহাস",
+  "navVault": "প্রেসক্রিপশন",
+  "navSettings": "সেটিংস",
+  "settings": "অ্যাপ সেটিংস",
+  "language": "ভাষা পরিবর্তন",
+  "themeMode": "থিম মোড",
+  "aboutApp": "মেডিবন্ড বিডি সম্পর্কে",
+  "aboutNethivo": "নেথিভো সম্পর্কে",
+  "version": "ভার্সন ১.০.০",
+  "privacyPolicy": "প্রাইভেসি পলিসি",
+  "supportContact": "সাপোর্ট ও যোগাযোগ"
+}
